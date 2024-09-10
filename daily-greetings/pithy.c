@@ -1,4 +1,4 @@
-// gcc -Wall -std=c11 -pedantic pithy.c -o pithy && ./pithy
+// gcc -Wall -std=c11 -pedantic pithy.c -o pithy & ./pithy
 
 #include <stdio.h>
 #include <stdlib.h>

@@ -1,4 +1,4 @@
-// gcc -Wall -std=c11 -pedantic greet.c -o greetings && ./greetings
+// gcc -Wall -std=c11 -pedantic greet.c -o greetings & ./greetings
 
 #include <stdio.h>
 #include <time.h>
