@@ -1,4 +1,4 @@
-// gcc -Wall -std=c11 -pedantic io_filter.c -o iofilter & ./iofilter
+// gcc -Wall -std=c11 -pedantic io_filter.c && ./a.out
 #include <stdio.h>
 
 int main()

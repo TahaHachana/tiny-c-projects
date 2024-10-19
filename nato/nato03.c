@@ -1,4 +1,4 @@
-// gcc -Wall -std=c11 -pedantic nato03.c -o nato && ./nato
+// gcc -Wall -std=c11 -pedantic nato03.c && ./a.out
 #include <stdio.h>
 #include <string.h>
 

@@ -1,3 +1,4 @@
+// gcc -Wall -std=c11 -pedantic nato01.c && ./a.out
 #include <stdio.h>
 #include <ctype.h>
 

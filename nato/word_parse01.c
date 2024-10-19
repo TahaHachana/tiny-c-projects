@@ -1,4 +1,4 @@
-// gcc -Wall -std=c11 -pedantic word_parse01.c -o word && ./word
+// gcc -Wall -std=c11 -pedantic word_parse01.c && ./a.out
 
 #include <stdio.h>
 #include <string.h>

@@ -1,4 +1,4 @@
-// gcc -Wall -std=c11 -pedantic caesar01.c -o caesar & ./caesar
+// gcc -Wall -std=c11 -pedantic caesar01.c && ./a.out
 #include <stdio.h>
 #include <ctype.h>
 
